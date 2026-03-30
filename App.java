@@ -8,6 +8,6 @@ public class App {
 
         // Mostrar información de cada mascota
         mascota1.mostrarInfo();
-        mascota2.mostrarInfo();
+        mascota2.mostrarInfo(); 
     }
 }
