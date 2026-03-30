@@ -4,9 +4,9 @@ Nombre: Pablo Dávila
 Fecha: 29/03/2026
 */
 // Mascota.java
-public class Mascota {
+public class Mascota { 
 
-    // Atributos
+    // Atributos 
     String nombre;
     String especie;
     int edad;
